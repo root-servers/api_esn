@@ -22,7 +22,7 @@ ESN 네트워크에서 사용이 가능한 API 서비스들에 대해 설명하�
 ## 인터넷익스플로어 주소창에 입력하여 사용할 수 있습니다.
 - https://api.esn.gonspool.com/get_node/json/
 - https://api.esn.gonspool.com/get_node/rpc/
-- https://api.esn.gonspool.com/eth_getBlockByNumber/12345
+- https://api.esn.gonspool.com/eth_getBlockByNumber/0x12345
 - https://api.esn.gonspool.com/eth_blockNumber
 - https://api.esn.gonspool.com/token/erc20/balanceOf10/토큰의주소/확인할주소 
 - https://api.esn.gonspool.com/token/erc20/balanceOf16/토큰의주소/확인할주소 
