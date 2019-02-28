@@ -26,3 +26,9 @@ ESN 네트워크에서 사용이 가능한 API 서비스들에 대해 설명하�
 - https://api.esn.gonspool.com/eth_blockNumber
 - https://api.esn.gonspool.com/token/erc20/balanceOf10/토큰의주소/확인할주소 
 - https://api.esn.gonspool.com/token/erc20/balanceOf16/토큰의주소/확인할주소 
+
+
+
+
+# MyEtherWallet v5.0.4 지원 업데이트 완료
+https://github.com/MyEtherWallet/MyEtherWallet/releases/tag/v5.0.4
