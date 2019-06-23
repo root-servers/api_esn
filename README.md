@@ -32,3 +32,7 @@ ESN 네트워크에서 사용이 가능한 API 서비스들에 대해 설명하�
 
 # MyEtherWallet v5.0.4 지원 업데이트 완료
 https://github.com/MyEtherWallet/MyEtherWallet/releases/tag/v5.0.4
+
+
+
+# https://www.ddengle.com/esn/6555893
