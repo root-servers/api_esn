@@ -1,3 +1,7 @@
+# 20190624
+  - eth_chainId 응답 지원
+    응답 -> {"jsonrpc":"2.0", "id": 83 ,"result":"0x797e"}
+
 # 20190519
   - 서버 이전 -- 익스플로어-텔레그램 : https://t.me/ESN_Explorer_bot
   - 서버 이전 -- 익스플로어-카카오톡 : https://pf.kakao.com/_xemrKC
